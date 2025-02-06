@@ -10,7 +10,6 @@ export default function Profile() {
         <img
         className="avatar"
         src={user.imageUrl}
-        alt={'photo of '+user.name}
         />
         </>
     );
